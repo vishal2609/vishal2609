@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vishal! <br/><a href="https://github.com/vishal2609">Programmer</a>, <a href="https://www.linkedin.com/in/vishal-khairnar-39383b100/">Computer Science Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Vishal! <br/><a href="https://github.com/vishal2609">Programmer</a>, <a href="https://www.linkedin.com/in/vishal-khairnar-39383b100/">Computer Science Student</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
